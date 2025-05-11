@@ -51,20 +51,19 @@ git clone https://github.com/your-username/Etrack.git
 cd Etrack
 flutter pub get
 flutter run
+```
 
-
-Build APK
-bash
-Copy
-Edit
+## Build APK
+```bash
 flutter build apk --release
-📱 Demo
-Coming soon.
+```
 
-📂 Folder Structure
-css
-Copy
-Edit
+## 📱 Demo
+Coming soon...
+
+## 📂 Folder Structure
+
+```bash
 lib/
 │
 ├── main.dart
@@ -79,3 +78,4 @@ lib/
 └── widgets/
     ├── expense_input.dart
     └── expense_list_item.dart
+```
